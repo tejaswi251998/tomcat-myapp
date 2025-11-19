@@ -125,6 +125,8 @@
 <a href="#">Hollywood</a>
 <a href="#">Bollywood</a>
 <a href="#">Kollywood</a>
+<a href="#">Bengali</a>
+<a href="#">Kids</a>
     </div>
 </div>
 
