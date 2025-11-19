@@ -121,11 +121,7 @@
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
-        <a href="#">Tollywood</a>
-<a href="#">Hollywood</a>
-<a href="#">Bollywood</a>
-<a href="#">Kollywood</a>
-<a href="#">Bengali</a>
+        
 <a href="#">Kids</a>
     </div>
 </div>
