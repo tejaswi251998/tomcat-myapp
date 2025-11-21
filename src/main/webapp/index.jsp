@@ -121,6 +121,9 @@
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
+        <a href="#">Telugu</a>
+        <a href="#">Hindi</a>
+        <a href="#">English</a>
         
 <a href="#">Kids</a>
     </div>
