@@ -53,9 +53,9 @@
         margin-top: 60px;
     }
     .hero h1 {
-        font-size: 110px;
+        font-size: 90px;
         margin: 0;
-        color: red;
+        color: violet;
     }
     .hero p {
         max-width: 400px;
@@ -124,6 +124,8 @@
         <a href="#">Telugu</a>
         <a href="#">Hindi</a>
         <a href="#">English</a>
+        <a href="#">Korean</a>
+        <a href="#">Japanese</a>
         
 <a href="#">Kids</a>
     </div>
