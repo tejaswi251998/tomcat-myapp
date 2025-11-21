@@ -53,7 +53,7 @@
         margin-top: 60px;
     }
     .hero h1 {
-        font-size: 60px;
+        font-size: 110px;
         margin: 0;
         color: red;
     }
@@ -128,7 +128,7 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>BlockBuster Movie</h1>
+    <h1>SuperHit Movies</h1>
     <p>Watch the latest blockbuster hit, now streaming exclusively.</p>
     <button>Play</button>
 </div>
