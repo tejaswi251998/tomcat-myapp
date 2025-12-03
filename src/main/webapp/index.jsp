@@ -133,7 +133,7 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>SuperHit Movies</h1>
+    <h1>SuperHitttt Movies</h1>
     <p>Watch the latest blockbuster hit, now streaming exclusively.</p>
     <button>Play</button>
 </div>
